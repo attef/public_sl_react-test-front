@@ -12,8 +12,8 @@ You will need to use these api for this exercise : https://jsonplaceholder.typic
 
 Follow this design
 * Use [react-bootstrap button](https://react-bootstrap.github.io/components/buttons/) for the head button
-* Use [react-bootstrap](https://react-bootstrap.github.io/layout/grid/) to create a grid with 3 col
-* Use [ListGroup](https://react-bootstrap.github.io/components/listgroup/) to create a placeholder
+* Use [react-bootstrap grid](https://react-bootstrap.github.io/layout/grid/) to create a grid with 3 col
+* Use [react-bootstrap ListGroup](https://react-bootstrap.github.io/components/listgroup/) to create a placeholder
 
 
 [![Image 1](/docs/screen_step_1.PNG?raw=true)](/docs/screen_step_1.PNG?raw=true)
@@ -22,9 +22,11 @@ Follow this design
 
 ## Step 2  
 
-* On click on the button, load the [users api](https://jsonplaceholder.typicode.com/users) and the [albums api](https://jsonplaceholder.typicode.com/albums)
-* Once the data loaded, change the button state
-* Create a component to display the users data, for each user, list all their albums
+* On click on the button, load the [users api](https://jsonplaceholder.typicode.com/users) and the [albums api](https://jsonplaceholder.typicode.com/albums)  
+* Once the data loaded, change the button state  
+* Use [react-bootstrap ListGroup](https://react-bootstrap.github.io/components/listgroup/) to create a component for displaying the users data  
+  * For each user, list their albums  
+  * add button
 
 [![Image 2](/docs/screen_step_2.PNG?raw=true)](/docs/screen_step_2.PNG?raw=true)
 
@@ -32,14 +34,19 @@ Follow this design
 
 ## Step 3  
 
-* On click on an album button, load the first photo using this [api](https://jsonplaceholder.typicode.com/albums/1/photos)
+* On click on an album button, load the first photo using [photos api](https://jsonplaceholder.typicode.com/albums/1/photos)
 * Use [react-bootstrap Modal](https://react-bootstrap.github.io/modal)
-* Display the picture, the photo title and album title in the modal
+* In the modal
+  * display the picture, 
+  * the photo title 
+  * album title
 
 [![Image 3](/docs/screen_step_3.PNG?raw=true)](/docs/screen_step_3.PNG?raw=true)
 
 ## Bons step
 * Write tests !
+
+---  
 
 ## Available Scripts
 
