@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
 
-![Image 1](../blob/master/docs/screen_step_1.PNG?raw=true)
-![Image 2](../blob/master/docs/screen_step_2.PNG?raw=true)
-![Image 3](../blob/master/docs/screen_step_3.PNG?raw=true)
+![Image 1](/docs/screen_step_1.PNG?raw=true)
+![Image 2](/docs/screen_step_2.PNG?raw=true)
+![Image 3](/docs/screen_step_3.PNG?raw=true)
 
 ## Available Scripts
 
