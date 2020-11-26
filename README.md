@@ -38,6 +38,9 @@ Follow this design
 
 [![Image 3](/docs/screen_step_3.PNG?raw=true)](/docs/screen_step_3.PNG?raw=true)
 
+## Bons step
+* Write tests !
+
 ## Available Scripts
 
 In the project directory, you can run:
