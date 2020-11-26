@@ -46,6 +46,13 @@ Follow this design
 ## Bons step
 * Write tests !
 
+# Once you done
+
+Push your work on a new branch using this pattern `/[firstname]-[lastname]`  
+or fork the repos and send us the link of your repos
+
+Good luck !
+
 ---  
 
 ## Available Scripts
