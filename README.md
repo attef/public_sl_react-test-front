@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
 
-![screen 1](https://raw.githubusercontent.com/axel-springer-kugawana/sl_react-test-front/master/docs/screen_step_1.PNG)
-![screen 2](https://raw.githubusercontent.com/axel-springer-kugawana/sl_react-test-front/master/docs/screen_step_2.PNG)
-![screen 3](https://raw.githubusercontent.com/axel-springer-kugawana/sl_react-test-front/master/docs/screen_step_3.PNG)
+![Image 1](../blob/master/docs/screen_step_1.PNG?raw=true)
+![Image 2](../blob/master/docs/screen_step_2.PNG?raw=true)
+![Image 3](../blob/master/docs/screen_step_3.PNG?raw=true)
 
 ## Available Scripts
 
