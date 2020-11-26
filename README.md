@@ -43,10 +43,11 @@ Follow this design
 
 [![Image 3](/docs/screen_step_3.PNG?raw=true)](/docs/screen_step_3.PNG?raw=true)
 
-## Bons step
-* Write tests !
+## Bons step  
 
-# Once you done
+* Write tests !  
+
+## Once you've done  
 
 Push your work on a new branch using this pattern `/[firstname]-[lastname]`  
 or fork the repos and send us the link of your repos
