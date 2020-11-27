@@ -35,6 +35,7 @@ Follow this design
 ## Step 3  
 
 * On click on an album button, load the first photo using [photos api](https://jsonplaceholder.typicode.com/albums/1/photos)
+  * Create Photo interface
 * Use [react-bootstrap Modal](https://react-bootstrap.github.io/modal)
 * In the modal
   * display the picture, 
