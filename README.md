@@ -26,7 +26,7 @@ Follow this design
 * Once the data loaded, change the button state  
 * Use [react-bootstrap ListGroup](https://react-bootstrap.github.io/components/listgroup/) to create a component for displaying the users data  
   * For each user, list their albums  
-  * add button
+  * add "see" button
 
 [![Image 2](/docs/screen_step_2.PNG?raw=true)](/docs/screen_step_2.PNG?raw=true)
 
@@ -43,7 +43,7 @@ Follow this design
 
 [![Image 3](/docs/screen_step_3.PNG?raw=true)](/docs/screen_step_3.PNG?raw=true)
 
-## Bons step  
+## Bonus step  
 
 * Write tests !  
 
